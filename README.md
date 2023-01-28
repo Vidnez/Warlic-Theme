@@ -1,5 +1,5 @@
-Unzip NewWarlic.zip
+1.- Unzip NewWarlic.zip
 
-Copy the skin folder to ROMS/CFW
+2.- Copy the skin folder to ROMS/CFW
 
-Copy the boot_logo.bmp.gz to MISC partition
+3.- Copy the boot_logo.bmp.gz to MISC partition
