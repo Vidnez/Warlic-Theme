@@ -3,7 +3,7 @@
 
 Warlic is a theme for GarlicOS created by Black Seraph for the Anbernic RG35XX handheld. Instalation instructions below:
 
-1.- Unzip NewWarlic.zip
+1.- Unzip Warlic.zip
 
 2.- Copy the skin folder to ROMS/CFW
 
